@@ -4,10 +4,10 @@
 
 @layer utilities {
   .navbar {
-    @apply relative ml-10 tracking-[1px] hover:font-bold;
+    @apply relative tracking-[1px] hover:font-bold;
   }
   .navbar::after {
-    @apply content-[''] bg-black dark:bg-white absolute h-[3px] w-[0%] left-0 -bottom-[5px] duration-300;
+    @apply content-[''] bg-black dark:bg-white absolute h-[3px] w-[0%] left-0 -bottom-[2px] duration-300;
   }
   .navbar:hover::after {
     @apply w-[100%];
