@@ -1,5 +1,27 @@
 const data = [
   {
+    url: "https://github.com/Anandprabhu530/moodler",
+    title: "Moodler",
+    description:
+      "Tracking Your Mood with AI Moodler. It analyzes your day to provide personalized insights with Ai",
+    java: false,
+    firebase: false,
+    mongodb: false,
+    nextjs: true,
+    express: false,
+  },
+  {
+    url: "https://github.com/Anandprabhu530/CLV",
+    title: "CLV Builder",
+    description:
+      "This AI-Powered application is built with the help of Gemini Pro developed by Google AI. Built on top of langchain",
+    java: false,
+    firebase: false,
+    mongodb: false,
+    nextjs: false,
+    express: false,
+  },
+  {
     url: "https://github.com/Anandprabhu530/Real_Time_Chat_Application",
     title: "Real Time Chat Application",
     description:
@@ -7,18 +29,10 @@ const data = [
     java: false,
     firebase: true,
     mongodb: true,
+    nextjs: false,
     express: true,
   },
-  {
-    url: "https://github.com/Anandprabhu530/Image_Gallery",
-    title: "Image Gallery",
-    description:
-      "This web application consists of images fetched from the Unsplash API. It is similar to Unsplash.",
-    java: false,
-    firebase: false,
-    mongodb: false,
-    express: false,
-  },
+
   {
     url: "https://github.com/Anandprabhu530/Decentralized_Exchange",
     title: "Decentralized Exchange",
@@ -27,6 +41,7 @@ const data = [
     java: false,
     firebase: false,
     mongodb: false,
+    nextjs: false,
     express: false,
   },
   {
@@ -37,6 +52,7 @@ const data = [
     java: false,
     firebase: false,
     mongodb: true,
+    nextjs: false,
     express: false,
   },
   {
@@ -47,17 +63,8 @@ const data = [
     java: true,
     firebase: false,
     mongodb: false,
+    nextjs: false,
     express: false,
-  },
-  {
-    url: "https://github.com/Anandprabhu530",
-    title: "Animal Club",
-    description:
-      "This project was built to explore the concepts of React, Express. It allows users to search for specific animals and retrieve information .",
-    java: false,
-    firebase: false,
-    mongodb: false,
-    express: true,
   },
 ];
 

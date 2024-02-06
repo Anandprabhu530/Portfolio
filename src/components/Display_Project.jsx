@@ -66,7 +66,9 @@ const Display_Project = (props) => {
                   stroke="currentColor"
                 ></path>
               </svg>
-              {props.firebase ? (
+              {props.nextjs ? (
+                <div className="flex items-center text-xl">Next.js</div>
+              ) : props.firebase ? (
                 <svg
                   viewBox="0 0 15 15"
                   fill="none"
