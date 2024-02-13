@@ -32,7 +32,7 @@ const Header = () => {
         </div>
         <div className="flex lg:gap-8 gap-5 lg:pr-6 pr-4 pb-5">
           <a
-            href="https://drive.google.com/file/d/1WdxIcq4jPvvL8f3Sxy626kIgMBrb6Zag/view?usp=sharing"
+            href="https://drive.google.com/file/d/1_PvgE72iKUUKpdxT39uYdFIWOrFFi3W5/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="lg:navbar"
