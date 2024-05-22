@@ -1,5 +1,16 @@
 const data = [
   {
+    url: "https://github.com/Anandprabhu530/Wing_Watch",
+    title: "Wing Watch",
+    description:
+      "Wing Watch will empower people like you to become birding enthusiasts and contribute valuable data to avian conservation.",
+    java: false,
+    firebase: false,
+    mongodb: true,
+    nextjs: true,
+    express: false,
+  },
+  {
     url: "https://github.com/Anandprabhu530/moodler",
     title: "Moodler",
     description:
@@ -44,17 +55,7 @@ const data = [
     nextjs: false,
     express: false,
   },
-  {
-    url: "https://github.com/Anandprabhu530/Url_Shortner",
-    title: "URL Shorter",
-    description:
-      "This web application allows users to shorten their URL and provides clean dashboard to maintain which helps wth navigation.",
-    java: false,
-    firebase: false,
-    mongodb: true,
-    nextjs: false,
-    express: false,
-  },
+  
   {
     url: "https://github.com/Anandprabhu530/Agriculture_assistant",
     title: "Agriculture Assistant",
