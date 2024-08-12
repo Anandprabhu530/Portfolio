@@ -1,13 +1,23 @@
 const data = [
-  {
-    url: "https://github.com/Anandprabhu530/Wing_Watch",
-    title: "Wing Watch",
+  { url: "https://statistically-speaking.vercel.app/",
+    title: "Statistically Speaking",
     description:
-      "Wing Watch will empower people like you to become birding enthusiasts and contribute valuable data to avian conservation.",
+      "A bridge between human intuition and complex datasets, utilizing the capabilities of LLMs to democratize data analysis",
     java: false,
     firebase: false,
-    mongodb: true,
+    mongodb: false,
     nextjs: true,
+    express: false,
+  },
+  {
+    url: "https://story-pulse.vercel.app/",
+    title: "StoryPulse",
+    description:
+      "Generate captivating stories with just a few clicks by leveraging the power of AI to create unique and engaging narratives based on your prompts.",
+    java: false,
+    firebase: true,
+    mongodb: false,
+    nextjs: false,
     express: false,
   },
   {
@@ -39,21 +49,9 @@ const data = [
       "This chat application features a robust authentication system and supports file sharing functionality.",
     java: false,
     firebase: true,
-    mongodb: true,
-    nextjs: false,
-    express: true,
-  },
-
-  {
-    url: "https://github.com/Anandprabhu530/Decentralized_Exchange",
-    title: "Decentralized Exchange",
-    description:
-      "This web application allows users to buy and transfer crypto from one wallet to another.",
-    java: false,
-    firebase: false,
     mongodb: false,
     nextjs: false,
-    express: false,
+    express: true,
   },
   
   {
